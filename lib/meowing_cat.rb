@@ -7,3 +7,6 @@ maru.name = "Maru"
 
 maru.name
 maru.meow
+
+  end
+end
